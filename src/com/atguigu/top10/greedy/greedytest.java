@@ -6,6 +6,7 @@ public class greedytest {
         System.out.println("hello git222");
         System.out.println("hello git333");
         System.out.println("hello git222");
+        System.out.println("hello git-hot-fix2");
         System.out.println("hello git-hot-fix");
         System.out.println("hello master-fix");
     }
