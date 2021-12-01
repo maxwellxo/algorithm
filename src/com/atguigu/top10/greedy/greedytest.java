@@ -10,5 +10,6 @@ public class greedytest {
         System.out.println("hello git-hot-fix");
         System.out.println("hello master-fix");
         System.out.println("hello master-fix");
+        System.out.println("github push");
     }
 }
